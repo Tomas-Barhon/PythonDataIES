@@ -1,0 +1,553 @@
+[33mcommit 71b2f0b346c6642732f8883d0bae47912967d1de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Mar 14 17:53:19 2023 +0100
+
+    Trying to solve repo again
+
+[33mcommit 5eed552196912af9d1b99fbdab487744937d9abf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Mar 14 17:35:21 2023 +0100
+
+    Fixing repo
+
+[33mcommit 2960fb33b38168625d31f7b1bb7ab2e590b76c83[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Mar 14 17:32:54 2023 +0100
+
+    Still fixing repo
+
+[33mcommit 039dd2183a253c3efb150de98692d46d2b0fdb6c[m
+Merge: a31aafd 7a0ecea
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Mar 14 17:23:18 2023 +0100
+
+    Trying to merge the repository with origin and resolving conflicts
+
+[33mcommit 7a0eceafa8ac9953a195e390267568c4ae934964[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Mon Mar 13 19:37:33 2023 +0000
+
+    Lecture 5 APIs
+
+[33mcommit 6d03411d2b55d3b5602a6b32791510f7437b6601[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Mon Mar 13 19:33:39 2023 +0000
+
+    Lecture APIs
+
+[33mcommit a31aafd6db29c5aa7621dae3f182cf4a6bd01d26[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Mon Mar 13 18:34:55 2023 +0100
+
+    Save before 4th lecture monday
+
+[33mcommit 5d1ebd3c7a5090772e7d89c23e63a0348dcd5b26[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Sun Mar 12 22:37:13 2023 +0100
+
+    Moving solutions in the right folder
+
+[33mcommit 4adcc4b2fe15287ff2a7d1c095863d087e5c1c99[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Sun Mar 12 22:35:26 2023 +0100
+
+    Home practice lecture 2
+
+[33mcommit f24004beb898699da5e7732cfc3d4f744a65a49b[m
+Merge: 6024d7e eb935a6
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Sun Mar 12 14:19:52 2023 +0100
+
+    Merge branch 'master' of https://github.com/tomas-barhon2001/PythonDataIES
+
+[33mcommit eb935a6a59eabef05fd2ea922a618c68767467b1[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Wed Mar 8 07:57:56 2023 +0000
+
+    Lecture 4 Advanced Pandas
+
+[33mcommit 6024d7eb6d2cd453e663c23d24a3258fbef0cc22[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Mar 7 18:36:54 2023 +0100
+
+    add the picture that the code created
+
+[33mcommit 4382802a4f3f5d189dcd1f16de5ab676e875ba25[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Mar 7 18:35:46 2023 +0100
+
+    save before lecture 4
+
+[33mcommit 637e9e490bf4f1d6077495f0626b43f19871b655[m
+Merge: 57e9976 01560aa
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 28 18:55:29 2023 +0100
+
+    Merge branch 'master' of https://github.com/tomas-barhon2001/PythonDataIES
+
+[33mcommit 57e997675dc32ee17115e57b56951b5676fc0534[m
+Merge: 050ef4e c4787c1
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 28 18:47:56 2023 +0100
+
+    Merge branch 'master' of https://github.com/tomas-barhon2001/PythonDataIES
+
+[33mcommit 050ef4ec215aeac013bf74870680134ad9c073a2[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 28 18:44:19 2023 +0100
+
+    Still not last fix
+
+[33mcommit 84aa409bc752cbb46ecd67786a90bc7258b2e6c3[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 28 18:41:28 2023 +0100
+
+    Hopefully last fix
+
+[33mcommit 1c89ef8241807900e991ddbd16ce60c4f815e380[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 28 18:39:14 2023 +0100
+
+    clearning the corrupted file
+
+[33mcommit 5f5c070394a8630833222efb88cd4ba7a124c9d9[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 28 18:37:11 2023 +0100
+
+    Fixing the corrupted file and adding seminar 2
+
+[33mcommit 01560aa49218021c54accb3df31a1f0b2c42995e[m
+Merge: 5fc93b2 c4787c1
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Feb 28 16:33:23 2023 +0000
+
+    Merge branch 'master' of github.com:vitekzkytek/PythonDataIES
+
+[33mcommit 5fc93b26793db7f94ac0743a86bd32354cd15ce4[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Feb 28 16:26:47 2023 +0000
+
+    lecture pandas numpy
+
+[33mcommit 5d61d1456e998d6f684b6c62d4df45f97b875ee3[m
+Merge: adfc0c3 6508b1c
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Mon Feb 27 20:02:47 2023 +0100
+
+    doesnt matter
+
+[33mcommit c4787c13deaa9e5dd4b9618f6982c1e21235182e[m
+Merge: 964f5b6 f9bfe8d
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Mon Feb 27 18:44:37 2023 +0100
+
+    Merge branch 'master' of https://github.com/vitekzkytek/PythonDataIES
+
+[33mcommit 964f5b61fdac71b3bb00b9206741b130fa6e1a6d[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Mon Feb 27 18:38:39 2023 +0100
+
+    Add 2nd seminar exercises.
+
+[33mcommit f9bfe8d099150980c8a55b13165e9f6df3c502b4[m
+Author: jansila <jansila@seznam.cz>
+Date:   Wed Feb 22 22:35:25 2023 +1300
+
+    Update README.md
+
+[33mcommit adfc0c3ace77f6181cac620554792464d4ee8db7[m
+Author: Tomas-Barhon <tomas.barhon@hotmail.cz>
+Date:   Tue Feb 21 18:55:29 2023 +0100
+
+    Save after the first lecture
+
+[33mcommit 6508b1caa9611413fcb0ff715e9d65f70d99bc41[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Feb 21 18:32:42 2023 +0100
+
+    Add 2nd lecture.
+
+[33mcommit 1c66b74cb3046b3081bdfbcd3f2e948cf7ee9a00[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Feb 20 08:19:34 2023 +1300
+
+    Update README.md
+
+[33mcommit dc061fb185a6af5b05a40210adb44eb78be36d49[m
+Author: jansila <jansila@seznam.cz>
+Date:   Thu Feb 16 08:57:24 2023 +1300
+
+    Update README.md
+
+[33mcommit a7599b8b5b679a0ca77683dfc14e694b805f0a33[m
+Merge: a9c3dca 2bac30a
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Feb 14 18:27:50 2023 +0100
+
+    Merge branch 'master' of https://github.com/vitekzkytek/PythonDataIES
+
+[33mcommit a9c3dcacd8049bfebebb831d4761ec6fa56809b3[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Feb 14 18:27:32 2023 +0100
+
+    Add 1st lecture.
+
+[33mcommit 2bac30a457e0e89dd044881410144adb4e234676[m
+Author: jansila <jansila@seznam.cz>
+Date:   Tue Feb 14 11:53:44 2023 +1300
+
+    Update README.md
+
+[33mcommit 8e64ef6a2d06a6ee7fb50ec13e7210e6690dc017[m
+Merge: 4873137 844cb74
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Mon Feb 13 18:31:01 2023 +0100
+
+    Merge branch 'master' of https://github.com/vitekzkytek/PythonDataIES
+
+[33mcommit 48731379607e980558b22a735f3e93b3f0163366[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Mon Feb 13 18:30:50 2023 +0100
+
+    Add 0th seminar
+
+[33mcommit 844cb74aa48750130dc8a8c0c52feb53d1dcbda1[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Feb 13 11:14:22 2023 +1300
+
+    Update README.md
+
+[33mcommit c7238ee948b0dfd45cd7daca7f8e327503faecd1[m
+Author: jansila <jansila@seznam.cz>
+Date:   Thu Feb 9 11:12:10 2023 +1300
+
+    Update README.md
+
+[33mcommit 30ad2447103d7a3969796f33537b1f3833735ef4[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Mon Feb 6 22:36:32 2023 +0100
+
+    Update README.md
+
+[33mcommit edbf4c038826888f5d990490bc3234b7783780d0[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Feb 6 21:41:08 2023 +1300
+
+    Update README.md
+
+[33mcommit 5ae25962b8da7323e177be5dd7f2491c457dde73[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Feb 6 18:06:41 2023 +1300
+
+    Update README.md
+
+[33mcommit 14354587c425e07921dc994fb1bd422960b082f9[m
+Author: Jan Šíla <jan.sila@soulution.cz>
+Date:   Mon Feb 6 17:58:07 2023 +1300
+
+    clean up for SS23
+
+[33mcommit 6f470721b0eadd413340c5a6935bf972c32be7b6[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Feb 6 17:53:03 2023 +1300
+
+    Update README.md
+
+[33mcommit 0a6f6bb971ffe6e68edbe76918480c4773cbfaba[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Sun Dec 18 15:26:24 2022 +0100
+
+    Remove sreality API link.
+
+[33mcommit fff09f9365a23c26f7652973a1e93fbc46194a16[m
+Author: jansila <jansila@seznam.cz>
+Date:   Sat Dec 17 02:34:56 2022 +0100
+
+    add project consult sheet
+
+[33mcommit 3b59ef424bf5ad421759405e963ac0e039d9946f[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Fri Dec 9 00:12:58 2022 +0100
+
+    Rename 09_putting_it_together.md to 09_putting_it_together/09_putting_it_together.md
+
+[33mcommit 031426a857fd09456e536897a8b00736b6ffe690[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Fri Dec 9 00:11:58 2022 +0100
+
+    Create 09_putting_it_together.md
+
+[33mcommit f5ed5173d0943b74dddea8b7441f4d26b59a9d9b[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Tue Dec 6 17:07:21 2022 +0100
+
+    Update README.md
+
+[33mcommit 4347c3f7ef27dafe646416f88eb84f72196dc950[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Nov 29 18:19:05 2022 +0100
+
+    Add 8th lecture.
+
+[33mcommit 78b4cd620684cc6fff03fb1a46048915997de536[m
+Author: vitekzkytek <7482296+vitekzkytek@users.noreply.github.com>
+Date:   Mon Nov 28 19:29:18 2022 +0100
+
+    Update README.md
+
+[33mcommit 6c7ff372bdf84debc0e0bd70dc3ec447a4d79ecd[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Mon Nov 28 16:49:21 2022 +0000
+
+    seminar apis
+
+[33mcommit 7694871841002fe8930cdb63cece5d47aa46f60e[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Nov 22 17:17:19 2022 +0000
+
+    lecture 7
+
+[33mcommit 9a43672b94406c7e7991a7d3e6d00e4ee66d7a8a[m
+Merge: 3042a55 84019a1
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Sun Nov 20 15:48:06 2022 +0000
+
+    merge lecture 6
+
+[33mcommit 84019a10393f9c6ad7410f634eaa5d1b579997a1[m
+Author: jansila <jansila@seznam.cz>
+Date:   Thu Nov 17 20:48:43 2022 +0100
+
+    Update README.md
+    
+    new form link
+
+[33mcommit a38d09ff5054dc378b3e5bd84657210b5c7ce5fd[m
+Author: jansila <jansila@seznam.cz>
+Date:   Thu Nov 17 20:37:13 2022 +0100
+
+    Update README.md
+    
+    add project submission form
+
+[33mcommit 369ce4dec8826c9cc0063b3b0b9647a0e9a9c5a8[m
+Merge: f7890ca 0f629f0
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Nov 15 18:33:38 2022 +0100
+
+    Merge branch 'master' of https://github.com/vitekzkytek/PythonDataIES
+
+[33mcommit f7890ca4a7c763554ec0bb7c71874ead266f434a[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Nov 15 18:33:21 2022 +0100
+
+    Add 6th seminar
+
+[33mcommit 0f629f0db41bda958c1a47263e07502ae26d4f36[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Nov 14 21:14:51 2022 +0100
+
+    Update README.md
+
+[33mcommit 652b79791267c30f659ae0546e8209d15b04cc11[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Nov 14 18:44:51 2022 +0100
+
+    Update README.md
+
+[33mcommit 5e3dd4ebf84cd9787a511418c98b3b07ed700fe3[m
+Author: jansila <jansila@seznam.cz>
+Date:   Mon Nov 14 18:29:57 2022 +0100
+
+    Update README.md
+    
+    midterm fall 2022
+
+[33mcommit af7cedcab90108e57219ebe35f31c91b736e010b[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Nov 8 18:29:06 2022 +0100
+
+    Fix mess from other branch checkout .
+
+[33mcommit 70725d9bf7b2010a5d3eda695cbfb11e85e0257d[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Nov 8 18:14:13 2022 +0100
+
+    Add 6th lecture.
+
+[33mcommit 3042a55210e55a8573476f3f16202aa815bd3201[m
+Merge: 3d70f20 09258db
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Nov 8 13:29:48 2022 +0000
+
+    Merge branch 'master' of https://github.com/vitekzkytek/PythonDataIES
+
+[33mcommit 3d70f20149553202c2cfc6217382125bd958aa70[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Nov 8 13:28:07 2022 +0000
+
+    seminar 4 solution
+
+[33mcommit 09258dbdeb77c74047b2e3a475a099dc7618ffcf[m
+Author: Martin Hronec <hroneq@gmail.com>
+Date:   Wed Nov 2 22:27:04 2022 +0100
+
+    Add 5th lecture.
+
+[33mcommit d3b00a5bb2d1a6550947829ed40959ca3f54edee[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Nov 1 08:26:50 2022 +0000
+
+    Empty seminar 4
+
+[33mcommit 5a5325d6061532edd743902fe5707e06bdc9aa5e[m
+Merge: 57dc788 6037102
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Nov 1 05:38:44 2022 +0000
+
+    Merge branch 'master' of https://github.com/vitekzkytek/PythonDataIES
+
+[33mcommit 57dc788b45ef3f9de34b8f75f90222e79716a353[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Nov 1 05:26:32 2022 +0000
+
+    seminar 2 solution
+
+[33mcommit 6037102e4618a520766d4ee1fd71fb5610f69b37[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Mon Oct 31 18:41:41 2022 +0100
+
+    Add sreality api link to README.md
+
+[33mcommit 6d79d96e4ec5de0586355eace6c03d3c5ba1322a[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Fri Oct 28 10:35:54 2022 +0200
+
+    Update README.md
+
+[33mcommit e630929bbaa7f16edf0d22efbde107e2dfec1263[m
+Author: Vít Macháček <65427733@fsv.cuni.cz>
+Date:   Tue Oct 25 19:59:10 2022 +0200
+
+    after lecture 4
+
+[33mcommit 54e3c84380f431fe424f0ad96d2f82a1379b1153[m
+Author: Vít Macháček <65427733@fsv.cuni.cz>
+Date:   Tue Oct 25 18:29:16 2022 +0200
+
+    sqlite
+
+[33mcommit 5824d49276b1026a43c67a4dc8353145faaae1be[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Oct 25 16:12:37 2022 +0000
+
+    lecture APIs and DBs
+
+[33mcommit 3e60685c822d7e5dc171c081b615a969732762b4[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Oct 18 16:20:45 2022 +0000
+
+    lecture 3
+
+[33mcommit 124e9bed0ef34612fe92cd82db6658be400179c3[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Mon Oct 17 15:08:27 2022 +0000
+
+    Seminar - Exploratory data analysis - empty
+
+[33mcommit 06d7d3530e1fd85cde69003db669a990e0057f7d[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Oct 11 18:18:20 2022 +0200
+
+    Rename the 1st lecture folder.
+
+[33mcommit 88221dc50f4e3388a70c94a91deaba1e5524453e[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Oct 11 18:17:08 2022 +0200
+
+    Fix folder name.
+
+[33mcommit c9641b10c8d3bc30bd91b7a0ec3c33ba625be409[m
+Author: Martin Hronec <martin.hronec@fsv.cuni.cz>
+Date:   Tue Oct 11 18:12:41 2022 +0200
+
+    Add 2nd lecture.
+
+[33mcommit 8ff3b0c3f353ac938b195a6392869c714b119fe6[m
+Author: vitekzkytek <vitekzkytek@gmail.com>
+Date:   Tue Oct 4 16:26:36 2022 +0000
+
+    lecture 1
+
+[33mcommit 0095437abe60ebd118fdab8c8be1be727bc182ea[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Mon Oct 3 19:23:57 2022 +0200
+
+    Remove Honza from bench
+
+[33mcommit 3fb769cc9865bf0493a7573942249307497a93de[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Fri Sep 30 21:04:43 2022 +0200
+
+    Update README.md
+
+[33mcommit 19b2c77afce49b3f46e9ac0526d04293288f1755[m
+Merge: 08cdb54 f32204a
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Tue Sep 27 23:06:39 2022 +0200
+
+    Merge pull request #33 from vitekzkytek/Winter2022
+    
+    Winter2022
+
+[33mcommit f32204ada3df8c3b0d1731e759283ad710a6efab[m
+Author: Martin Hronec <hroneq@gmail.com>
+Date:   Tue Sep 27 21:44:15 2022 +0200
+
+    Clear repo for winter semester.
+
+[33mcommit 0c6927ad06e7ec8290a4ccf748cf101aa6216ad3[m
+Merge: 2c5dcdc df406bd
+Author: Martin Hronec <hroneq@gmail.com>
+Date:   Tue Sep 27 21:19:31 2022 +0200
+
+    Fix README.md conflict.
+
+[33mcommit 08cdb54da7a1f29ff51ade09cb2124cfd99f9538[m
+Merge: 454822f df406bd
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Tue Sep 27 21:07:04 2022 +0200
+
+    Merge pull request #32 from vitekzkytek/Winter2022
+    
+    Winter2022
+
+[33mcommit df406bd38f29991e0db6b840543410a0ae516260[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Tue Sep 27 21:03:25 2022 +0200
+
+    Update README.md
+
+[33mcommit f18ce67e5a293c5f7ced56b32169c1541635c0d2[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Sat Sep 24 22:10:25 2022 +0200
+
+    Syllabus proposal for WS 2022
+
+[33mcommit 235aaf930de8d19977531df1b0b5232ff1093860[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Tue Aug 16 22:54:00 2022 +0200
+
+    Update README.md with proposed contents change.
+
+[33mcommit 2c5dcdc506de4b1bc5184709bee7af987845a445[m
+Author: Martin Hronec <hroneq@gmail.com>
+Date:   Tue Aug 16 22:52:38 2022 +0200
+
+    Add proposal for WS 2022 course contents update.
+
+[33mcommit 454822ff2c5bd62022664f770efc4275470dc6fb[m
+Author: martinhronec <44951293+martinhronec@users.noreply.github.com>
+Date:   Fri Apr 29 22:29:33 2022 +0200
+
+    Add link to registrations
